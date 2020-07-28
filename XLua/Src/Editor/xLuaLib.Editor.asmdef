@@ -1,0 +1,9 @@
+{
+    "name": "xLuaLib.Editor",
+    "references": [
+        "xLuaLib"
+    ],
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ]
+}
